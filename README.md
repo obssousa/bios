@@ -6,4 +6,4 @@
   </a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=dracula&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=obssousa&theme=dracula&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
