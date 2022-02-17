@@ -5,3 +5,5 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obssousa&layout=compact&theme=dracula&count_private=true" />
   </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=obssousa)](https://git.io/streak-stats)
